@@ -1,4 +1,4 @@
-# Hey, I'm Ally 👋
+# Hey, I'm Jawad 👋
 
 ### Aspiring Software Developer | Learning by Building
 
@@ -37,18 +37,11 @@ and getting comfortable with failing and learning.
 
 I don't need to know everything today. I just need to keep showing up.
 
-### 📊 My GitHub Journey
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@jawad-mwadama](https://github.com/jawad-mwadama)
 
 ---
 
